@@ -1,0 +1,29 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    background-color: aquamarine;
+    padding: 40px;
+    color: midnightblue;
+}
+
+div{
+    background-color: midnightblue;
+    color: antiquewhite;
+    padding: 30px;
+    margin: 20px;
+    border: 5px solid blueviolet;
+    border-radius: 50px;
+    box-shadow: 10px 10px 20px 10px black;
+}
+
+.div1{
+    background-color: cadetblue;
+}
+
+#div2{
+    background-color: rgb(62, 15, 170);
+}
